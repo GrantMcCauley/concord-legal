@@ -1,6 +1,6 @@
 # concord-legal - current status
 
-Updated: 2026-08-24 · regenerated after the default-on sharing change
+Updated: 2026-11-18 · regenerated from Concord `ed442fd`
 
 The one file that answers "where is this right now."
 
@@ -17,6 +17,12 @@ It is the only public repo of the six.
 
 ## Shipped recently
 
+- 2026-11-18 - Regenerated from Concord `ed442fd`. The hosted pages had
+  fallen behind the app since September 9: privacy and terms now carry the
+  November 6 text (notification counts, bill and measure stances, rounded
+  location, batched results, no donations), acknowledgements add Senate,
+  FEC and state sources, and Disclosures (November 18) says what reports
+  do on their own instead of promising human review
 - 2026-08-24 - Regenerated for the privacy policy dated August 24, 2026:
   anonymized answer sharing is on by default, disclosed at first run, with a
   full off switch in Account
