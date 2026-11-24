@@ -1,6 +1,6 @@
 # concord-legal - current status
 
-Updated: 2026-11-18 · regenerated from Concord `ed442fd`
+Updated: 2026-11-24 · regenerated after the Terms of Use protections
 
 The one file that answers "where is this right now."
 
@@ -17,6 +17,9 @@ It is the only public repo of the six.
 
 ## Shipped recently
 
+- 2026-11-24 - Regenerated for the Terms of Use dated November 23, 2026:
+  liability cap, full warranty disclaimer, minimum age, store terms and
+  general clauses (Concord PR 162)
 - 2026-11-18 - Regenerated from Concord `ed442fd`. The hosted pages had
   fallen behind the app since September 9: privacy and terms now carry the
   November 6 text (notification counts, bill and measure stances, rounded
